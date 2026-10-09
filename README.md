@@ -13,8 +13,7 @@ Gabriel Torres Zambo — RM: 569883
 - HTML5
 - Tailwind CSS v4 (plugin `@tailwindcss/vite`)
 - Vite (servidor de desenvolvimento e build)
-- JavaScript puro (ES6+)
-- Fonte Inter (Google Fonts)
+- JavaScript puro
 
 ## Principais recursos implementados
 
