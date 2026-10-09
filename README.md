@@ -73,7 +73,7 @@ techflow-dashboard/
 
 ## Link do GitHub
 
-https://github.com/usuario/techflow-dashboard
+https://github.com/OctavioMello/Dashboard---TechFlow
 
 ## Dificuldades encontradas
 
