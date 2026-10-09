@@ -77,8 +77,6 @@ https://github.com/usuario/techflow-dashboard
 
 ## Dificuldades encontradas
 
-> Edite esta seção com as dificuldades reais do grupo. Alguns pontos que costumam aparecer neste tipo de projeto:
-
 - Montar a grade de projetos com tamanhos diferentes (`col-span` e `row-span`) sem deixar espaços vazios entre os cards.
 - Fazer o modo System reagir à mudança de tema do sistema e evitar o "flash" de tema errado ao carregar a página.
 - Tornar a sidebar responsiva (fixa no desktop e deslizante no mobile) controlando o foco e a rolagem da página.
