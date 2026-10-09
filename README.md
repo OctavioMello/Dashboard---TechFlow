@@ -8,6 +8,8 @@ Octávio Mello Covre de Souza — RM: 571811
 
 Gabriel Torres Zambo — RM: 569883
 
+Enzo Leme - RM: 572148
+
 ## Tecnologias utilizadas
 
 - HTML5
