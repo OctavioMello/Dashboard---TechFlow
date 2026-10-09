@@ -1,0 +1,16 @@
+@import "tailwindcss";
+
+/* Dark mode controlado pela classe .dark no <html> (Light | Dark | System) */
+@custom-variant dark (&:where(.dark, .dark *));
+
+@theme {
+    --font-sans: "Inter", system-ui, sans-serif;
+}
+
+/* Tailwind v4: botões vêm com cursor padrão; devolvemos o "pointer" */
+@layer base {
+    button:not(:disabled),
+    [role="button"]:not(:disabled) {
+        cursor: pointer;
+    }
+}
