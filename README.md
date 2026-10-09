@@ -5,6 +5,7 @@ Checkpoint 5 – FrontEnd Design. Dashboard responsivo da empresa fictícia **Te
 ## Integrantes
 
 Octávio Mello Covre de Souza — RM: 571811
+
 Gabriel Torres Zambo — RM: 569883
 
 ## Tecnologias utilizadas
